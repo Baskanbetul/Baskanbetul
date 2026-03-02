@@ -11,7 +11,6 @@
 
 <hr></hr>
 
-[![Betul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baskanbetul&layout=compact&theme=vue-dark)](https://github.com/Baskanbetul/github-readme-stats)
 
 <!-- ![Betul's trophies](https://github-profile-trophy.vercel.app/?username=Baskanbetul&hide=starstheme=vue-dark) -->
 
